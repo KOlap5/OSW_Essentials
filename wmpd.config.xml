@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wmpi>
+  <deployment>
+    <suffix>ModPackVersion</suffix>
+    <site type-code="ftp">
+      <link-data pasv="false" auth=""></link-data>
+    </site>
+  </deployment>
+</wmpi>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wmpi>
+  <id>OSW-MODPACK</id>
+  <title>OSW Essentials</title>
+  <min-app-version>1.2.9</min-app-version>
+  <author>KOlap5</author>
+  <client-version>0.9.16</client-version>
+  <version>0.1</version>
+  <info>Mods collection</info>
+  <info-url />
+  <pack-file>pack-update.wmpi</pack-file>
+  <update-url type-code="github" direct="true">
+    <link-data branch="">http://github.com/KOlap5</link-data>
+  </update-url>
+  <date>2016-10-26</date>
+  <sync-folders>text\lc_messages</sync-folders>
+</wmpi>
