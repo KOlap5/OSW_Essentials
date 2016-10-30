@@ -5,5 +5,12 @@
     <site type-code="ftp">
       <link-data pasv="false" auth=""></link-data>
     </site>
+    <update-site-cache>
+      <mode type="AutomaticGit">
+        <site type-code="github">
+          <link-data branch="master">http://github.com/KOlap5/OSW_Essentials</link-data>
+        </site>
+      </mode>
+    </update-site-cache>
   </deployment>
 </wmpi>
