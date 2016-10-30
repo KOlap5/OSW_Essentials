@@ -5,13 +5,13 @@
   <min-app-version>1.2.9</min-app-version>
   <author>KOlap5</author>
   <client-version>0.9.16</client-version>
-  <version>0.1</version>
+  <version>0.2</version>
   <info>Mods collection for clan OSW</info>
   <info-url />
   <pack-file>pack-update.wmpi</pack-file>
   <update-url type-code="github" direct="true">
     <link-data branch="master">http://github.com/KOlap5/OSW_Essentials</link-data>
   </update-url>
-  <date>2016-10-26</date>
+  <date>2016-10-30</date>
   <sync-folders>text\lc_messages</sync-folders>
 </wmpi>
